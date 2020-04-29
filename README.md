@@ -3,8 +3,9 @@
 
 Where computer generates 3 numbers and user have to guess it 
 
-Clues:
- 1) "MATCH" - Correct number in correct position
+Result:
+
+1) "MATCH" - Correct number in correct position
  
  2) "CLOSE" - Correct number in Wrong position 
  
